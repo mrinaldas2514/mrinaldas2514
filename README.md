@@ -22,8 +22,6 @@ and their parents understand the real cost of studying in India.
 |---|---|---|
 | [ai-virtual-mouse](https://github.com/mrinaldas2514/ai-virtual-mouse) | Hand-gesture mouse control for macOS | Python, OpenCV, MediaPipe, PySide6 |
 | [Agentic-Ai-1](https://github.com/mrinaldas2514/Agentic-Ai-1) | Agentic AI coursework: a RAG project, text-chunking methods, BLIP image-captioning fine-tuning | Python, Jupyter |
-| [Mlops-unit1.](https://github.com/mrinaldas2514/Mlops-unit1.) | Iris classifier: preprocessing, training and a saved model (MLOps lab) | Python |
-| [Myntra-Demo](https://github.com/mrinaldas2514/Myntra-Demo) | My first web page, a Myntra-style layout | HTML |
 
 ### 🛠️ Tools I use
 
